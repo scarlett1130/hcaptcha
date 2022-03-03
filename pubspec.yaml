@@ -1,7 +1,8 @@
 name: hcaptcha
 description: Integrate hCaptcha into your Flutter App without any dependency.
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://ensorta.com
+repository: https://github.com/hsbijarniya/hcaptcha
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
